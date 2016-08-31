@@ -92,3 +92,19 @@ Return number of processors and cores for a specific model:
 "Model","processor number"
 "T5-4","2,4:16"
 ```
+
+Run webserver:
+
+```
+$ ./webserver.rb 
+[2016-08-31 16:01:40] INFO  WEBrick 1.3.1
+[2016-08-31 16:01:40] INFO  ruby 2.3.0 (2015-12-25) [x86_64-darwin15]
+== Sinatra (v1.4.7) has taken the stage on 4567 for development with backup from WEBrick
+[2016-08-31 16:01:40] INFO  WEBrick::HTTPServer#start: pid=96269 port=4567
+```
+
+Example chart output:
+
+![alt tag](https://raw.githubusercontent.com/lateralblast/duct/master/chart1.png)
+
+
