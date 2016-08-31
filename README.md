@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/lateralblast/parsec/master/sparc_t5.png)
+![alt tag](https://raw.githubusercontent.com/lateralblast/duct/master/duct.jpg)
 
 DUCT
 ====
