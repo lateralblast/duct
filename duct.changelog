@@ -1,0 +1,26 @@
+# 0.0.1
+# Initical code
+# 0.0.2
+# Initial webserver
+# 0.0.3
+# Serperated common code into include file
+# 0.0.4
+# Initial working MOS HTML processing
+# 0.0.5
+# Initial working MOS extract import
+# 0.0.6
+# Improved RU processing
+# 0.0.7
+# Improved CPU process
+# 0.0.8
+# Improved power process
+# 0.0.9: Tue 30 Aug 2016 10:50:18 AEST
+# Fixed file output for MOS HTML data import
+# 0.1.0: Tue 30 Aug 2016 11:56:38 AEST
+# Improved series/model breakdown
+# 0.1.1: Wed 31 Aug 2016 11:11:44 AEST
+# Improved power reporting
+# 0.1.2: Wed 31 Aug 2016 12:19:30 AEST
+# More MOS processing fixes
+# 0.1.3: Wed 31 Aug 2016 15:35:29 AEST
+# Added power units processing

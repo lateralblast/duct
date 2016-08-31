@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Oracle Sun <%= @report %> report</title>
+    <script src="/javascript/Chart.bundle.js"></script>
+    <script src="/javascript/chartkick.js"></script>
+  </head>
+
+  <body>
+    <center>
+      <h1>Breakdown by All Series</h1>
+      <p><%=  pie_chart(@series) %></p>
+      <h1>Breakdown by Blade Series Models</h1>
+      <p><%=  pie_chart(@b_models) %></p>
+      <h1>Breakdown by C Series Models</h1>
+      <p><%=  pie_chart(@c_models) %></p>
+      <h1>Breakdown by E Series Models</h1>
+      <p><%=  pie_chart(@e_models) %></p>
+      <h1>Breakdown by M Series Models</h1>
+      <p><%=  pie_chart(@m_models) %></p>
+      <h1>Breakdown by Netra Series Models</h1>
+      <p><%=  pie_chart(@n_models) %></p>
+      <h1>Breakdown by S Series Models</h1>
+      <p><%=  pie_chart(@s_models) %></p>
+      <h1>Breakdown by T Series Models</h1>
+      <p><%=  pie_chart(@t_models) %></p>
+      <h1>Breakdown by Ultra Series Models</h1>
+      <p><%=  pie_chart(@u_models) %></p>
+      <h1>Breakdown by x86 Series Models</h1>
+      <p><%=  pie_chart(@x_models) %></p>
+      <h1>Breakdown by ZFS Series Models</h1>
+      <p><%=  pie_chart(@z_models) %></p>
+    </center>
+  </body>
+</html>
